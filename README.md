@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0566-reshape-the-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
