@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0015-3sum) |
 | [0566-reshape-the-matrix](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0566-reshape-the-matrix) |
 ## Matrix
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0344-reverse-string) |
 ## String
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
