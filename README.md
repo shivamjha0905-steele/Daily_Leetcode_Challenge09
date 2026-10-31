@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
