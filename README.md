@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0015-3sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0342-power-of-four) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0342-power-of-four) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
