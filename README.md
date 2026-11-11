@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0125-valid-palindrome) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0342-power-of-four) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
