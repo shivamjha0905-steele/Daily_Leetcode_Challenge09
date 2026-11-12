@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0566-reshape-the-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Matrix
 |  |
 | ------- |
