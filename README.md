@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0042-trapping-rain-water) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0229-majority-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0566-reshape-the-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0229-majority-element-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -136,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
