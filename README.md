@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0566-reshape-the-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Matrix
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0042-trapping-rain-water) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Backtracking
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0342-power-of-four) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bit Manipulation
 |  |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
