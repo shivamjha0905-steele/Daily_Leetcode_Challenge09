@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Matrix
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0754-reach-a-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
