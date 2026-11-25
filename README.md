@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
