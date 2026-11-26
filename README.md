@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0566-reshape-the-matrix) |
+| [3360-stone-removal-game](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3360-stone-removal-game](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
