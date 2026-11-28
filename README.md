@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0876-middle-of-the-linked-list) |
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0876-middle-of-the-linked-list) |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shivamjha0905-steele/Daily_Leetcode_Challenge09/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
